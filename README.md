@@ -54,10 +54,13 @@ Some of the public projects that you can find and use now are:
 ## :comet: Where are my packages?
 
 <a href='https://www.npmjs.com/~chatereum'>
-    <p align='center'>
+<!--     <p align='center'> -->
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/80px-Npm-logo.svg.png' />
-    </p>
+<!--     </p> -->
 </a>
+
+# ⛽Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=Arjis2020&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's talk!
 
