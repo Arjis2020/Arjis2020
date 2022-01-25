@@ -60,7 +60,7 @@ Some of the public projects that you can find and use now are:
 </a>
 
 # ⛽Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Arjis2020&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Arjis2020&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's talk!
 
