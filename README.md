@@ -9,7 +9,7 @@ __```JavaScript```: Bruh 😑__
 
 ## :nerd_face: Who am I?
 
-I am a 21 year old developer with knowledge in various industry standard technologies. I am from Kolkata, India. I have almost 3 years of internship experience in more than 4 companies on various technologies. I am currently in my 3rd year of B.Tech course in SRM University, Ramapuram, Chennai. I have released some open source projects on my [GitHub](https://github.com/Arjis2020) profile and also [npm](https://nmpjs.com/~chatereum).
+I am a 22 year old developer with knowledge in various industry standard technologies. I am from Kolkata, India. I have almost 3 years of internship experience in more than 4 companies on various technologies. I am currently in my 4th year of B.Tech course in SRM University, Ramapuram, Chennai. I have released some open source projects on my [GitHub](https://github.com/Arjis2020) profile and also [npm](https://nmpjs.com/~chatereum).
 
 ## :boom: Expertise
 
